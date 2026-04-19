@@ -7,7 +7,7 @@ function About() {
       </p>
       <div style={{ marginTop: "30px", padding: "20px", backgroundColor: "#f9f9f9", borderRadius: "8px", border: "1px solid #ddd" }}>
         <h3>Project Team</h3>
-        <p>Built with ❤️ by our 2-3 person group for Web Applications Programming.</p>
+        <p>Built with ❤️ Moath , laith , abdullah</p>
       </div>
     </div>
   );
